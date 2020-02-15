@@ -68,6 +68,9 @@ params:
     - category: Services
       description: Status Of trissiesfiles.ga
       name: Trissie's File Server
+    - category: Bots
+      description: Status Of Discord Bot Trisbot
+      name: Trisbot
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
