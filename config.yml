@@ -48,6 +48,11 @@ params:
     - category: Bots
       description: The Status Of Leopard Bot On Discord
       name: Leopard Bot
+    - category: Servers
+      description: ''
+      name: US East
+    - category: Servers
+      name: 'US Central '
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
