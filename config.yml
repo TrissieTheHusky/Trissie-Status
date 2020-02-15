@@ -55,6 +55,10 @@ params:
       name: 'US Central '
     - category: Servers
       name: US West
+    - category: Servers
+      name: 'EU West '
+    - category: Servers
+      name: EU Central
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
