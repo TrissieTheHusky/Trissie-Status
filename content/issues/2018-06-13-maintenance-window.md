@@ -12,7 +12,7 @@ affected:
   - Leopard Bot
   - US Central
   - US East
-severity: disrupted
+severity: notice
 ---
 *Just began* - We're currently shutting down the network. {{< track "2018-06-13 15:54:00" >}}
 
