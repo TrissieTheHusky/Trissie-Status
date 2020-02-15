@@ -6,7 +6,12 @@ resolved: false
 resolvedWhen: 2018-06-13T16:54:00.000Z
 affected:
   - API
-  - Main Systems
+  - Backup Gateway
+  - Gateway
+  - Media Proxy
+  - Leopard Bot
+  - US Central
+  - US East
 severity: down
 ---
 *Just began* - We're currently shutting down the network. {{< track "2018-06-13 15:54:00" >}}
