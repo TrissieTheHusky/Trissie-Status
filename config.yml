@@ -7,7 +7,7 @@ params:
   alwaysKeepBrandColor: true
   brand: '#e83e8c'
   categories:
-    - name: Uncategorized
+    - name: Main Systems
     - description: Bot Statuses Will Display Here
       name: Bots
     - closed: false
@@ -32,15 +32,15 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - category: Our Main Gateway Is Cruicial For Our Services
-      description: Uncategorized
+      description: Main Systems
       name: Gateway
-    - category: Uncatagorized
+    - category: Main Systems
       description: Our Backup Gateway incase our Main Gateway Fails.
       name: Backup Gateway
-    - category: Uncategorized
+    - category: Main Systems
       description: 'Our API Status, For Our Systems Functions'
       name: API
-    - category: Uncategorized
+    - category: Main Systems
       description: >-
         This is the service responsible for serving images, audio, and video. It
         is reliant on our CDN.
