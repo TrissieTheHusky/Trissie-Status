@@ -8,13 +8,14 @@ params:
   brand: '#e83e8c'
   categories:
     - name: Main Systems
-    - description: Bot Statuses Will Display Here
+    - closed: true
+      name: Services
+    - closed: false
+      description: Bot Statuses Will Display Here
       name: Bots
     - closed: false
       name: Servers
       untited: true
-    - closed: true
-      name: Services
   customTabs:
     - link: 'https://trissidevelopment.com'
       name: Trissie Development Website
