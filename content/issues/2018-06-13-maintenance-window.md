@@ -2,7 +2,7 @@
 section: issue
 title: Maintenance Window
 date: 2018-06-13T15:54:00.000Z
-resolved: false
+resolved: true
 resolvedWhen: 2018-06-13T16:54:00.000Z
 affected:
   - API
@@ -12,7 +12,7 @@ affected:
   - Leopard Bot
   - US Central
   - US East
-severity: notice
+severity: down
 ---
 *Just began* - We're currently shutting down the network. {{< track "2018-06-13 15:54:00" >}}
 
