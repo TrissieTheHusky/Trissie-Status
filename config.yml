@@ -8,7 +8,7 @@ params:
   brand: '#e83e8c'
   categories:
     - name: Main Systems
-    - closed: true
+    - closed: false
       name: Services
     - closed: false
       description: Bot Statuses Will Display Here
