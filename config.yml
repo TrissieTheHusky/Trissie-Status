@@ -2,7 +2,7 @@ title: Trissie Development Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://cstate.mnts.lt'
+baseURL: 'https://statustrissiedevelopment.netlify.com'
 params:
   alwaysKeepBrandColor: true
   brand: '#e83e8c'
