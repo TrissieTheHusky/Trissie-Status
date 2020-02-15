@@ -28,18 +28,20 @@ params:
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - category: East Coast
+    - category: Our Main Gateway Is Cruicial For Our Services
+      description: Uncategorized
+      name: Gateway
+    - category: Uncatagorized
+      description: Our Backup Gateway incase our Main Gateway Fails.
       name: Backup Gateway
     - category: Uncategorized
-      description: The guts of the application.
+      description: 'Our API Status, For Our Systems Functions'
       name: API
     - category: Uncategorized
       description: >-
         This is the service responsible for serving images, audio, and video. It
         is reliant on our CDN.
       name: Media Proxy
-    - category: Our Main Gateway Is Cruicial For Our Services
-      name: Gateway
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
