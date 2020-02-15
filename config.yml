@@ -7,11 +7,12 @@ params:
   alwaysKeepBrandColor: true
   brand: '#e83e8c'
   categories:
-    - closed: true
-      description: The main servers are located here.
-      name: North Coast
-    - name: East Coast
     - name: Uncategorized
+    - description: Bot Statuses Will Display Here
+      name: Bots
+    - closed: false
+      name: Servers
+      untited: true
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
@@ -22,13 +23,11 @@ params:
   googleAnalytics: UA-00000000-1
   incidentHistoryFormat: yearly
   incidentPostsPerPage: 10
-  logo: /logo.png
+  logo: /img/906FB21C-0BF5-4FEA-B437-D43409124FBD.jpeg
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - category: North Coast
-      name: Gateway
     - category: East Coast
       name: Backup Gateway
     - category: Uncategorized
@@ -39,6 +38,8 @@ params:
         This is the service responsible for serving images, audio, and video. It
         is reliant on our CDN.
       name: Media Proxy
+    - category: Our Main Gateway Is Cruicial For Our Services
+      name: Gateway
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
