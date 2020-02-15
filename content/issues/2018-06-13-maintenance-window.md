@@ -21,3 +21,5 @@ We are currently mitigating the issue please bear with us.
 All Services Are Currently Down!
 
 We are going to be starting the servers backup again, as we have implemented a fix.
+
+### **Resolved** - We Have Resolved These Issues, Thank you for your patience.
