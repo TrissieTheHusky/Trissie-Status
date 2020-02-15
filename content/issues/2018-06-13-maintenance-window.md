@@ -7,7 +7,7 @@ resolvedWhen: 2018-06-13T16:54:00.000Z
 affected:
   - API
   - Main Systems
-severity: disrupted
+severity: down
 ---
 
 *Just began* - We're currently shutting down the network. {{< track "2018-06-13 15:54:00" >}}
