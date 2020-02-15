@@ -9,5 +9,6 @@ affected:
   - Main Systems
 severity: down
 ---
-
 *Just began* - We're currently shutting down the network. {{< track "2018-06-13 15:54:00" >}}
+
+We are currently mitigating the issue please bear with us.
