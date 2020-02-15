@@ -65,6 +65,9 @@ params:
     - category: Services
       description: Status Of trissieimagehosting.ga
       name: Trissie Image Hosting
+    - category: Services
+      description: Status Of trissiesfiles.ga
+      name: Trissie's File Server
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
