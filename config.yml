@@ -59,6 +59,9 @@ params:
       name: US West
     - category: Servers
       name: 'US Central '
+    - category: Services
+      description: Status Of trissieimagehosting.ga
+      name: Trissie Image Hosting
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
