@@ -13,6 +13,8 @@ params:
     - closed: false
       name: Servers
       untited: true
+    - closed: true
+      name: Services
   customTabs:
     - link: 'https://trissidevelopment.com'
       name: Trissie Development Website
