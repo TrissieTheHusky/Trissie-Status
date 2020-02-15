@@ -13,7 +13,7 @@ params:
     - closed: false
       description: Bot Statuses Will Display Here
       name: Bots
-    - closed: false
+    - closed: true
       name: Servers
       untited: true
   customTabs:
