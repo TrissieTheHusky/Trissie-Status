@@ -36,8 +36,8 @@ params:
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - category: Our Main Gateway Is Cruicial For Our Services
-      description: Main Systems
+    - category: Main Systems
+      description: Our Main Gateway Is Cruicial For Our Services
       name: Gateway
     - category: Main Systems
       description: Our Backup Gateway incase our Main Gateway Fails.
