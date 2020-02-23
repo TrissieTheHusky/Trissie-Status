@@ -27,7 +27,7 @@ params:
   disrupted: '#cc4400'
   down: '#e60000'
   googleAnalytics: UA-00000000-1
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: none
   incidentPostsPerPage: 10
   logo: /img/906FB21C-0BF5-4FEA-B437-D43409124FBD.jpeg
   notice: '#24478f'
@@ -74,7 +74,7 @@ params:
     - category: Bots
       description: Status Of Discord Bot Spectro
       name: Spectro
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
