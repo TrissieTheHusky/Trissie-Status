@@ -12,7 +12,7 @@ params:
       description: Bot Statuses Will Display Here
       name: Bots
       untited: true
-    - closed: false
+    - closed: true
       name: Services
       untited: true
     - closed: true
