@@ -9,11 +9,11 @@ params:
   categories:
     - name: Main Systems
     - closed: false
-      name: Services
-      untited: true
-    - closed: false
       description: Bot Statuses Will Display Here
       name: Bots
+      untited: true
+    - closed: false
+      name: Services
       untited: true
     - closed: true
       name: Servers
