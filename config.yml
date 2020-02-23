@@ -69,9 +69,6 @@ params:
       description: Status Of trissiesfiles.ga
       name: Trissie's File Server
     - category: Bots
-      description: Status Of Discord Bot Trisbot
-      name: Trisbot
-    - category: Bots
       description: Status Of Discord Bot Spectro
       name: Spectro
   useLargeHeaderDesign: false
