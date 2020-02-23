@@ -38,7 +38,7 @@ params:
       description: Our Main Gateway Is Cruicial For Our Services
       name: Gateway
     - category: Main Systems
-      description: Our Backup Gateway incase our Main Gateway Fails.
+      description: Main Gateway Failsafe
       name: Backup Gateway
     - category: Main Systems
       description: 'Our API Status, For Our Systems Functions'
