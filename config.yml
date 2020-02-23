@@ -18,13 +18,11 @@ params:
     - closed: true
       name: Servers
       untited: true
-  customTabs:
-    - link: 'https://trissidevelopment.com'
-      name: Trissie Development Website
+  customTabs: []
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
-    We continuously monitor the status of our services and if there are any
-    interruptions, a note will be posted here.
+    Trissie Development, continuously monitors the status of our services and if
+    there are any interruptions, a note will be posted here.
   disableDarkMode: false
   disrupted: '#cc4400'
   down: '#e60000'
@@ -76,7 +74,7 @@ params:
     - category: Bots
       description: Status Of Discord Bot Spectro
       name: Spectro
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
