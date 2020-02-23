@@ -71,7 +71,7 @@ params:
     - category: Bots
       description: Status Of Discord Bot Spectro
       name: Spectro
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
