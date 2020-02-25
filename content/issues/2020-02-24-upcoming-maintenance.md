@@ -10,7 +10,7 @@ affected:
   - Leopard Bot
   - Trissie Image Hosting
   - Spectro
-severity: down
+severity: notice
 ---
 
 
