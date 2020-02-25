@@ -9,6 +9,7 @@ affected:
   - API
   - Leopard Bot
   - Trissie Image Hosting
+  - Spectro
 severity: notice
 ---
 \- We are starting to shut down some systems for tonights maintenance. Once again sorry for any inconvience.
