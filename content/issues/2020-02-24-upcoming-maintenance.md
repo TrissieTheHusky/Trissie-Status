@@ -1,6 +1,6 @@
 ---
 section: issue
-title: 'Upcoming Maintenance '
+title: Maintainance Underway
 date: 2020-02-25T01:00:00.000Z
 resolved: false
 informational: true
@@ -12,6 +12,8 @@ affected:
   - Spectro
 severity: notice
 ---
+
+
 \- We are starting to shut down some systems for tonights maintenance. Once again sorry for any inconvience.
 
 \- We are going to be having maintenance tonight that will disrupt some if not all of our services. We are sorry for any inconvenience this may cause you.\
