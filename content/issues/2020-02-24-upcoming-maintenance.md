@@ -2,7 +2,7 @@
 section: issue
 title: Maintainance Underway
 date: 2020-02-25T01:00:00.000Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: 2020-02-24T22:19:04.317Z
 affected:
@@ -12,7 +12,7 @@ affected:
   - Spectro
 severity: notice
 ---
-
+**\- Maintenance Completed For This Status Page Check [Trissie Development Status](https://status.trissiedevelopment.com)**
 
 \- We are starting to shut down some systems for tonights maintenance. Once again sorry for any inconvenience.
 
