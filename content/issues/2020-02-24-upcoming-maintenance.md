@@ -14,7 +14,7 @@ severity: notice
 ---
 
 
-\- We are starting to shut down some systems for tonights maintenance. Once again sorry for any inconvience.
+\- We are starting to shut down some systems for tonights maintenance. Once again sorry for any inconvenience.
 
 \- We are going to be having maintenance tonight that will disrupt some if not all of our services. We are sorry for any inconvenience this may cause you.\
 ***(Approx: 6:30 Disruptions should be noticed)***
