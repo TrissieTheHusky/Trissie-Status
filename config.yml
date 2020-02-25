@@ -18,7 +18,9 @@ params:
     - closed: true
       name: Servers
       untited: true
-  customTabs: []
+  customTabs:
+    - link: 'https://status.trissiedevelopment.com/'
+      name: Status Page
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     Trissie Development, continuously monitors the status of our services and if
