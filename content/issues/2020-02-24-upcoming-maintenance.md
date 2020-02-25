@@ -3,14 +3,14 @@ section: issue
 title: Maintainance Underway
 date: 2020-02-25T01:00:00.000Z
 resolved: false
-informational: true
+informational: false
 resolvedWhen: 2020-02-24T22:19:04.317Z
 affected:
   - API
   - Leopard Bot
   - Trissie Image Hosting
   - Spectro
-severity: notice
+severity: down
 ---
 
 
