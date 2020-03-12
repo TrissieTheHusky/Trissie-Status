@@ -16,7 +16,7 @@ affected:
   - US Central
   - Trissie Image Hosting
   - Trissie's File Server
-severity: disrupted
+severity: down
 ---
 ***Update -*** Our servers have been shutdown. All of our services have propigated to the [Backup Gateway](https://statustrissiedevelopment.netlify.com/affected/backup-gateway/) Successfully. 
 
