@@ -18,13 +18,13 @@ affected:
   - Trissie's File Server
 severity: disrupted
 ---
-***Monitoring -** We are currently monitoring a fix that we have implemented.*
+**\*Monitoring -** We are currently monitoring a fix that we have implemented.*
 
 ***Identified*** - We seem to have found the issue with our servers not wanting to start back up and are implementing a fix.
 
-***Investigating* -** There is a problem with our services. There seems to be a issue with starting up the servers and propigating back to our main Websockets.* 
+***Investigating* -** There is a problem with our services. There seems to be a issue with starting up the servers and propagating back to our main Websockets. 
 
-***Update -*** Our servers have been shutdown. All of our services have propigated to the [Backup Gateway](https://statustrissiedevelopment.netlify.com/affected/backup-gateway/) Successfully. 
+***Update -*** Our servers have been shutdown. All of our services have propagated to the [Backup Gateway](https://statustrissiedevelopment.netlify.com/affected/backup-gateway/) Successfully. 
 
 ***Investigating -*** We are experiencing errors due to shutting down our servers. We are now implementing the fixes and updating firmware. As well as getting ready for total shutdown.
 
