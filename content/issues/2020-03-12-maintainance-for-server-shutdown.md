@@ -2,7 +2,7 @@
 section: issue
 title: Maintainance For Server Shutdown
 date: 2020-03-12T19:00:00.000Z
-resolved: false
+resolved: true
 informational: true
 resolvedWhen: 2020-03-12T20:00:00.000Z
 affected:
