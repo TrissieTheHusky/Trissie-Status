@@ -18,7 +18,7 @@ affected:
   - Trissie's File Server
 severity: disrupted
 ---
-**\*Monitoring -** We are currently monitoring a fix that we have implemented.*
+***Monitoring*** - We are currently monitoring a fix that we have implemented.
 
 ***Identified*** - We seem to have found the issue with our servers not wanting to start back up and are implementing a fix.
 
