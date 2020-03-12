@@ -16,7 +16,7 @@ affected:
   - US Central
   - Trissie Image Hosting
   - Trissie's File Server
-severity: down
+severity: disrupted
 ---
 ***Identified*** - We seem to have found the issue with our servers not wanting to start back up and are implementing a fix.
 
