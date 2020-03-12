@@ -18,4 +18,8 @@ affected:
   - Trissie's File Server
 severity: disrupted
 ---
+***Investigating -*** We are experiencing errors due to shutting down our servers. We are now implementing the fixes and updating firmware. Aswell as getting ready for total shutdown.
+
+
+
 ***Upcoming*** - We are going to be shutting down services for maintenance. We are shutting down for a test of our Backup Gateway.  We are sorry for any inconveniences, this may cause. We will keep you updated as we preform our actions.
