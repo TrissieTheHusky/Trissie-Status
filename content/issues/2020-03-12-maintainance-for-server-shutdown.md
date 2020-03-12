@@ -16,7 +16,7 @@ affected:
   - US Central
   - Trissie Image Hosting
   - Trissie's File Server
-severity: notice
+severity: down
 ---
 ***Resolved*** - Fix was implemented successfully. We are now ramping up the servers and will start allowing usage of our API, and Services. 
 Thank you for your patience.
