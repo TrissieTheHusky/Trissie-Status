@@ -18,7 +18,9 @@ affected:
   - Trissie's File Server
 severity: down
 ---
-**Investigating -** There is a problem with our services. There seems to be a issue with starting up the servers and propigating back to our main Websockets.* 
+***Identified*** - We seem to have found the issue with our servers not wanting to start back up and are implementing a fix.
+
+***Investigating* -** There is a problem with our services. There seems to be a issue with starting up the servers and propigating back to our main Websockets.* 
 
 ***Update -*** Our servers have been shutdown. All of our services have propigated to the [Backup Gateway](https://statustrissiedevelopment.netlify.com/affected/backup-gateway/) Successfully. 
 
