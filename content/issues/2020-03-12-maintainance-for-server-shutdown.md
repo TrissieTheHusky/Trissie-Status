@@ -16,6 +16,6 @@ affected:
   - US Central
   - Trissie Image Hosting
   - Trissie's File Server
-severity: notice
+severity: disrupted
 ---
 ***Upcoming*** - We are going to be shutting down services for maintenance. We are shutting down for a test of our Backup Gateway.  We are sorry for any inconveniences, this may cause. We will keep you updated as we preform our actions.
